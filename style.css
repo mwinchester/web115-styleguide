@@ -1,0 +1,104 @@
+body {
+  font-family: 'Roboto', sans-serif; }
+
+h1 {
+  font-size: 2em;
+  font-family: 'Ubuntu', sans-serif;
+  color: #FF6506; }
+
+h2 {
+  font-size: 1.75em;
+  font-family: 'Ubuntu', sans-serif;
+  color: #003133; }
+
+h3 {
+  font-size: 1.5em;
+  font-family: 'Ubuntu', sans-serif;
+  color: #FFA557; }
+
+h4 {
+  font-size: 1.25em;
+  font-family: 'Ubuntu', sans-serif;
+  color: #00BDC0; }
+
+h5 {
+  font-size: 1em;
+  font-family: 'Ubuntu', sans-serif;
+  color: #007a7f; }
+
+h6 {
+  font-size: 1em;
+  font-family: 'Ubuntu', sans-serif;
+  color: #003133;
+  font-style: italic; }
+
+.container {
+  max-width: 1060px;
+  margin: 5px auto;
+  padding: 5px;
+  overflow: auto; }
+
+.headings {
+  font-size: 1.5em;
+  padding: 2px 15px;
+  font-weight: 800;
+  color: #d3d3d3; }
+
+#colors {
+  width: 80%;
+  margin: 5px auto; }
+
+#color1 {
+  background: #00BDC0;
+  height: 100px;
+  width: 150px;
+  float: left;
+  border: 2px solid #003133;
+  border-radius: 5px;
+  margin: 20px; }
+  #color1 h2 {
+    font-size: 1.25em;
+    text-align: center; }
+
+#color2 {
+  background: #007a7f;
+  height: 100px;
+  width: 150px;
+  float: left;
+  border: 2px solid #003133;
+  border-radius: 5px;
+  margin: 20px; }
+  #color2 h2 {
+    color: white;
+    font-size: 1.25em;
+    text-align: center; }
+
+#color3 {
+  background: #FF6506;
+  height: 100px;
+  width: 150px;
+  float: left;
+  color: #003133;
+  border: 2px solid #003133;
+  border-radius: 5px;
+  margin: 20px; }
+  #color3 h2 {
+    color: white;
+    font-size: 1.25em;
+    text-align: center; }
+
+#color4 {
+  background: #FFA557;
+  height: 100px;
+  width: 150px;
+  float: left;
+  color: #003133;
+  border: 2px solid #003133;
+  border-radius: 5px;
+  margin: 20px; }
+  #color4 h2 {
+    color: #003133;
+    font-size: 1.25em;
+    text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
